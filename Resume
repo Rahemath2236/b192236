@@ -1,0 +1,54 @@
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\date{06-08-2022}
+\begin{document}
+\maketitle
+\section{\huge{\color{red} INTRODUCTION TO MYSELF}}
+NAME : RAHEMATH BEGUM\\
+FATHER'S NAME : ABDUL GAFAR\\
+MOTHER'S NAME : SHAHERA BEGUM\\
+\section{\color{blue}{ MARKS REPRENTATION}}
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|l|r|}
+\hline
+    S.no & Class & Marks\\
+    \hline
+    1. & Ssc & 10.0\\
+    \hline
+    2.&Puc-1&9.2\\
+    \hline
+    3.&Puc-2 & 9.4\\
+    \hline
+\end{tabular}
+\end{table}
+\section{\LARGE{\color{purple} HOBBIES}}
+\begin{enumerate}
+    \item Reading books
+    \item Listening music
+    \item Playing games
+    \item Cooking
+\end{enumerate}
+\section{\large{\color{violet}EXTRA CURICULAR ACTIVITIES}}
+\begin{itemize}
+    \item Singing
+    \item Dancing
+    \item Mehendi Designs
+\end{itemize}
+\section{\color{orange}ACHIEVEMENTS}
+\begin{itemize}
+    \item 10.0 GPA in 10th class
+    \item Felicitation by district cOllector,MP and SP
+    
+\end{itemize}
+\section{\color{blue}IMAGE REPRESENTATION}
+\begin{figure}[h]
+     \centering
+     \includegraphics[scale=0.25]
+     {Baby.jpg }
+  \caption{RAHEMATH BEGUM}   
+\end{figure}
+\end{document}
